@@ -1,6 +1,6 @@
 # BigDataDriven_Consumer_Complaints_Analysis
 
-[Link to My Wiki Page](https://github.com/dvaishna/BigDataDriven_Consumer_Complaints_Analysis/wiki)
+[Link to the Wiki Page](https://github.com/dvaishna/BigDataDriven_Consumer_Complaints_Analysis/wiki)
 
 ******* Introduction *******
 
