@@ -4,6 +4,12 @@
 
 scp C:/MSIS/CIS_5200/Project/Consumer_Complaints_Analysis/Dataset/complaints.json dvaishn2@144.24.53.159:/tmp
 
+# Gitbash session 2
+
+# You need to remotely access your Oracle Big Data server that you executed in your Oracle Cloud account using ssh. 
+# Your CalStateLA username(dvaishn2) should be a username/password to connect to the Hadoop cluster at BDCE as follows:
+
+ssh dvaishn2@144.24.53.159
 
 # Downloading the dictnioary from internet
 wget -O dictionary.tsv https://github.com/dalgual/aidatasci/raw/master/data/bigdata/dictionary.tsv 
@@ -45,6 +51,12 @@ hdfs dfs -chmod -R o+rw /user/dvaishn2/5200_Complaints_DS/
 hdfs dfs -chmod -R o+rw /user/dvaishn2/5200_Project_Tables/
 
 # Open new gitbash session for beeline
+# Gitbash session 3
+
+# You need to remotely access your Oracle Big Data server that you executed in your Oracle Cloud account using ssh. 
+# Your CalStateLA username(dvaishn2) should be a username/password to connect to the Hadoop cluster at BDCE as follows:
+
+ssh dvaishn2@144.24.53.159
 
 --Creating Hive Queries
 
